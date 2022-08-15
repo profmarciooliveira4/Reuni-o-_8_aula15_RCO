@@ -1,12 +1,12 @@
 # Reunião-_8_aula15_RCO
-HTML: as tags ul, ol e li / tags div, classe
+<h3>HTML: as tags ul, ol e li / tags div, classe</h3>
 
-Abrir o projeto no editor de texto ou no GitHub;
-Construir uma ou mais listas no HTML, se aplicável;
-Criar classes para os elementos HTML e realizar modificações visuais com os seletores de classe no CSS;
-Implementar uma divisão semântica do conteúdo com  tag <div>;
-Atualizar o arquivo no repositório que estamos trabalhando no GitHub
- (com topics ge-programacao2022) .
+<p>Abrir o projeto no editor de texto ou no GitHub;<br>
+Construir uma ou mais listas no HTML, se aplicável;<br>
+Criar classes para os elementos HTML e realizar modificações visuais com os seletores de classe no CSS;<br>
+Implementar uma divisão semântica do conteúdo com  tag < div > <br>
+Atualizar o arquivo no repositório que estamos trabalhando no GitHub</p>
+ <h4>(com topics ge-programacao2022)</h4> .
 
 [linkdoc](https://docs.google.com/document/d/16fNPMI7X1gK8BuJ3CFSU3f_mHew-yYuuuXM5E37urq8/edit?usp=sharing) do documento no GoogleDocs.
 
