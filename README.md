@@ -7,3 +7,5 @@ Criar classes para os elementos HTML e realizar modificações visuais com os se
 Implementar uma divisão semântica do conteúdo com  tag <div>;
 Atualizar o arquivo no repositório que estamos trabalhando no GitHub
  (com topics ge-programacao2022) .
+
+[linkdoc](https://docs.google.com/document/d/16fNPMI7X1gK8BuJ3CFSU3f_mHew-yYuuuXM5E37urq8/edit?usp=sharing) do documento no GoogleDocs.
