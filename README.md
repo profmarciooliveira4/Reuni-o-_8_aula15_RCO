@@ -9,3 +9,6 @@ Atualizar o arquivo no repositório que estamos trabalhando no GitHub
  (com topics ge-programacao2022) .
 
 [linkdoc](https://docs.google.com/document/d/16fNPMI7X1gK8BuJ3CFSU3f_mHew-yYuuuXM5E37urq8/edit?usp=sharing) do documento no GoogleDocs.
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
