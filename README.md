@@ -1,4 +1,4 @@
-# Reuni-o-_8_aula15_RCO
+# Reunião-_8_aula15_RCO
 HTML: as tags ul, ol e li / tags div, classe
 
 Abrir o projeto no editor de texto ou no GitHub;
